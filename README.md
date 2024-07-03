@@ -1,2 +1,2 @@
 # MacroManim
-Macroeconomics courses built with Nanim
+Macroeconomics courses built with Manim
